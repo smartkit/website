@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04a04e61-e6bf-4b59-8d11-cb4ecd7d9b2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/about/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/BruceHuang.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/WuPeng.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/wangyongjun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/team/yangbozhou.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/._1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/._2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/._3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/._4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/about/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/team/1.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/AccuratelyIdentify.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/airport-gate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/broadcast-intelligence.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/mall-guide.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/store-and-search.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -66,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="81" column="54" lean-forward="false" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
+            <state relative-caret-position="285">
+              <caret line="162" column="58" lean-forward="false" selection-start-line="162" selection-start-column="58" selection-end-line="162" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -243,6 +227,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -293,11 +295,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/team" />
       <recent name="$PROJECT_DIR$/img/about" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/logos" />
-      <recent name="$PROJECT_DIR$/img/portfolio" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -376,19 +378,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486908219058</updated>
-      <workItem from="1486908222519" duration="7228000" />
+      <workItem from="1486908222519" duration="9135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7228000" />
+    <option name="totallyTimeSpent" value="9135000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1886" height="1029" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -503,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="81" column="54" lean-forward="false" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
+        <state relative-caret-position="285">
+          <caret line="162" column="58" lean-forward="false" selection-start-line="162" selection-start-column="58" selection-end-line="162" selection-end-column="58" />
           <folding />
         </state>
       </provider>
